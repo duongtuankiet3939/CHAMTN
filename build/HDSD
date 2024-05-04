@@ -1,0 +1,2 @@
+# Dùng môi trường anaconda để chạy
+# pip install pandas imutils pillow  opencv-python scipy scikit-learn
